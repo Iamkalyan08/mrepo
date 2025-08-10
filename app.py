@@ -15,3 +15,4 @@ greet_user("Alice")
 # You can also get input from the user and use it in the function
 user_name = input("Enter your name: ")
 greet_user(user_name)
+#this is a sample python code we can write more code in this 
